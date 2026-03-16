@@ -28,19 +28,17 @@ I am a passionate technologist focused on **AI model development**, **custom mod
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,java,kotlin,dart,php,css,html,powershell,bash" alt="Languages" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,flask,flutter,jquery,npm,nestjs,opencv,spring,vite,vue,yarn" alt="Frameworks" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean,docker,cloudflare,vercel,heroku" alt="Cloud" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,prisma,firebase" alt="Databases" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda" alt="AI/ML" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,unreal" alt="Hardware/Tools" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ae,ai,blender,figma,ps,pr" alt="Design" />
+
+| | Skills |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,java,kotlin,dart,php,css,html,powershell,bash" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,flask,flutter,jquery,npm,nestjs,opencv,spring,vite,vue,yarn" /> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean,docker,cloudflare,vercel,heroku" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,prisma,firebase" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda" /> |
+| **Hardware / Tools** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,unreal" /> |
+| **Design** | <img src="https://skillicons.dev/icons?i=ae,ai,blender,figma,ps,pr" /> |
+
 </div>
 
 ---
@@ -70,4 +68,9 @@ I am a passionate technologist focused on **AI model development**, **custom mod
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <br/>
+  <p align="center">
+    <i>"There is no secret ingredient. To make something special, you just have to believe it's special"</i> <br/> 
+    <b>— Mr. Ping</b>
+  </p>
 </div>
