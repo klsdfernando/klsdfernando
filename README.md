@@ -43,16 +43,30 @@ I am a passionate technologist focused on **AI model development**, **custom mod
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="./dashboard_header.svg" width="400" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="400" />
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=klsdfernando&theme=tokyonight&hide_border=false" width="400" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" />
+      </td>
+    </tr>
+  </table>
+  
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=klsdfernando&theme=tokyonight&hide_border=false" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=klsdfernando&theme=tokyo-night&area=true&hide_border=false" alt="Activity Graph" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  
+  <p align="center">
+    <b>3D Contribution Graph</b><br/>
+    <img src="https://github-profile-3d-contrib.vercel.app/api?username=klsdfernando&theme=monochrome" alt="3D Profile" width="800" />
+  </p>
 </div>
 
 ---
