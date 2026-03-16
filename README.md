@@ -65,7 +65,14 @@ I am a passionate technologist focused on **AI model development**, **custom mod
   
   <p align="center">
     <b>3D Contribution Graph</b><br/>
-    <img src="https://github-profile-3d-contrib.vercel.app/api?username=klsdfernando&theme=monochrome" alt="3D Profile" width="800" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="800" />
+  </p>
+
+  <br/>
+
+  <p align="center">
+    <b>Activity Progression</b><br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=klsdfernando&theme=tokyo-night&area=true&hide_border=false" alt="Activity Graph" width="800" />
   </p>
 </div>
 
