@@ -50,6 +50,8 @@ I am a passionate technologist focused on **AI model development**, **custom mod
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=klsdfernando&theme=tokyonight&hide_border=false" alt="Streak Stats" />
   <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=klsdfernando&theme=tokyo-night&area=true&hide_border=false" alt="Activity Graph" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </div>
 
@@ -67,10 +69,5 @@ I am a passionate technologist focused on **AI model development**, **custom mod
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-  <br/>
-  <p align="center">
-    <i>"There is no secret ingredient. To make something special, you just have to believe it's special"</i> <br/> 
-    <b>— Mr. Ping</b>
-  </p>
+  <img src="./quote.svg" alt="Mr. Ping Quote" width="800" />
 </div>
