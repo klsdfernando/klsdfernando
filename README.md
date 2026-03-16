@@ -27,56 +27,21 @@ I am a passionate technologist focused on **AI model development**, **custom mod
 
 ### 💻 Tech Stack
 
-<details open>
-  <summary><b>🚀 Core Languages</b></summary>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,java,kotlin,dart,php,css,html,powershell,bash" alt="Languages" />
   <br/>
-  <code><img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" /></code>
-  <code><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#" /></code>
-  <code><img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></code>
-  <code><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" /></code>
-  <code><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></code>
-  <code><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></code>
-  <code><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" /></code>
-  <code><img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" /></code>
-  <code><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="Dart" /></code>
-  <code><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" /></code>
-</details>
-
-<details>
-  <summary><b>🛠️ Frameworks & Libraries</b></summary>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,flask,flutter,jquery,npm,nestjs,opencv,spring,vite,vue,yarn" alt="Frameworks" />
   <br/>
-  <code><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" /></code>
-  <code><img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" /></code>
-  <code><img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></code>
-  <code><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express" /></code>
-  <code><img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI" /></code>
-  <code><img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" /></code>
-  <code><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" /></code>
-  <code><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" /></code>
-  <code><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" /></code>
-  <code><img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=black" alt="OpenCV" /></code>
-</details>
-
-<details>
-  <summary><b>☁️ Cloud & Infrastructure</b></summary>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean,docker,cloudflare,vercel,heroku" alt="Cloud" />
   <br/>
-  <code><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" /></code>
-  <code><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="GCP" /></code>
-  <code><img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white" alt="DigitalOcean" /></code>
-  <code><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" /></code>
-  <code><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" alt="Cloudflare" /></code>
-  <code><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel" /></code>
-</details>
-
-<details>
-  <summary><b>🔐 Security & Hardware</b></summary>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,prisma,firebase" alt="Databases" />
   <br/>
-  <code><img src="https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black" alt="Cisco" /></code>
-  <code><img src="https://img.shields.io/badge/WireGuard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white" alt="WireGuard" /></code>
-  <code><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" /></code>
-  <code><img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi" alt="Raspberry Pi" /></code>
-  <code><img src="https://img.shields.io/badge/TOR-%237E4798.svg?style=flat&logo=tor-project&logoColor=white" alt="TOR" /></code>
-</details>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda" alt="AI/ML" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,unreal" alt="Hardware/Tools" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ae,ai,blender,figma,ps,pr" alt="Design" />
+</div>
 
 ---
 
