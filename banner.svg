@@ -1,0 +1,48 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#0D1117"/>
+  
+  <style>
+    @keyframes gridFlow {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(40px); }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 0.8; }
+    }
+    @keyframes scanline {
+      0% { transform: translateY(-200px); }
+      100% { transform: translateY(200px); }
+    }
+    .background { fill: #0D1117; }
+    .grid { stroke: #1f6feb; stroke-width: 0.5; opacity: 0.2; animation: gridFlow 2s linear infinite; }
+    .text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; fill: #58a6ff; text-transform: uppercase; letter-spacing: 5px; }
+    .subtext { font-family: 'Courier New', Courier, monospace; fill: #238636; font-size: 14px; }
+    .divider { fill: #238636; opacity: 0.5; }
+    
+    @media (prefers-color-scheme: light) {
+      .background { fill: #ffffff; }
+      .grid { stroke: #58a6ff; opacity: 0.1; }
+      .text { fill: #0969da; }
+      .subtext { fill: #1a7f37; }
+      .divider { fill: #1a7f37; }
+    }
+  </style>
+
+  <g class="grid">
+    <path d="M0 40H800 M0 80H800 M0 120H800 M0 160H800 M0 200H800" />
+    <path d="M40 0V200 M80 0V200 M120 0V200 M160 0V200 M200 0V200 M240 0V200 M280 0V200 M320 0V200 M360 0V200 M400 0V200 M440 0V200 M480 0V200 M520 0V200 M560 0V200 M600 0V200 M640 0V200 M680 0V200 M720 0V200 M760 0V200" />
+  </g>
+
+  <rect width="800" height="200" class="scanline" opacity="0.1" />
+
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="32" class="text" style="animation: pulse 2s ease-in-out infinite;">
+    SUSHAN FERNANDO
+  </text>
+  
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-size="16" class="subtext">
+    &gt; AI ENGINEER &amp; CYBERSECURITY RESEARCHER
+  </text>
+
+  <rect x="250" y="75" width="300" height="1" class="divider" />
+</svg>
