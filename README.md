@@ -1,8 +1,8 @@
 <div align="center">
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./BANNER_DARK.svg">
-      <img src="./BANNER_LIGHT.svg" alt="Banner" width="800" />
+      <source media="(prefers-color-scheme: dark)" srcset="./banner_dark.svg">
+      <img src="./banner_light.svg" alt="Banner" width="800" />
     </picture>
   </p>
 
@@ -60,19 +60,19 @@ I am a passionate technologist focused on **AI model development**, **custom mod
         <img src="./dashboard_header.svg" width="400" />
         <br/>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
-          <img src="https://github-readme-stats.vercel.app/api?username=klsdfernando&theme=default&hide_border=false&include_all_commits=true&count_private=true" width="400" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000">
+          <img src="https://github-readme-stats.vercel.app/api?username=klsdfernando&theme=default&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000" width="400" />
         </picture>
       </td>
       <td width="50%" valign="top">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=klsdfernando&theme=tokyonight&hide_border=false">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=klsdfernando&theme=default&hide_border=false" width="400" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=klsdfernando&theme=tokyonight&hide_border=false&background=00000000">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=klsdfernando&theme=default&hide_border=false&background=00000000" width="400" />
         </picture>
         <br/>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klsdfernando&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klsdfernando&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" width="400" />
         </picture>
       </td>
     </tr>

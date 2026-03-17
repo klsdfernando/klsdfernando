@@ -1,5 +1,5 @@
 <svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="200" fill="#ffffff"/>
+  <rect width="800" height="200" fill="transparent"/>
   
   <style>
     @keyframes gridFlow {
@@ -14,7 +14,7 @@
       0% { transform: translateY(-200px); }
       100% { transform: translateY(200px); }
     }
-    .grid { stroke: #58a6ff; stroke-width: 0.5; opacity: 0.1; animation: gridFlow 2s linear infinite; }
+    .grid { stroke: #58a6ff; stroke-width: 0.5; opacity: 0.15; animation: gridFlow 2s linear infinite; }
     .text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; fill: #0969da; text-transform: uppercase; letter-spacing: 5px; }
     .subtext { font-family: 'Courier New', Courier, monospace; fill: #1a7f37; font-size: 14px; }
     .scanline { fill: linear-gradient(to bottom, transparent, rgba(9, 105, 218, 0.05), transparent); animation: scanline 4s linear infinite; }
@@ -35,5 +35,5 @@
     &gt; AI ENGINEER &amp; CYBERSECURITY RESEARCHER
   </text>
 
-  <rect x="250" y="75" width="300" height="1" fill="#1a7f37" opacity="0.3" />
+  <rect x="250" y="75" width="300" height="1" fill="#1a7f37" opacity="0.4" />
 </svg>
