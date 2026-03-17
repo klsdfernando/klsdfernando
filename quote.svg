@@ -1,7 +1,6 @@
 <svg width="800" height="120" viewBox="0 0 800 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="120" rx="10" fill="#161B22"/>
-  
   <style>
+    .bg { fill: #161B22; }
     .quote { 
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
       font-style: italic;
@@ -14,7 +13,15 @@
       font-size: 16px; 
       fill: #58A6FF; 
     }
+
+    @media (prefers-color-scheme: light) {
+      .bg { fill: #f6f8fa; }
+      .quote { fill: #1a7f37; }
+      .author { fill: #0969da; }
+    }
   </style>
+
+  <rect width="800" height="120" rx="10" class="bg"/>
 
   <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" class="quote">
     “There is no secret ingredient. To make something special, you just have to believe it's special”

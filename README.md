@@ -4,7 +4,10 @@
   <h1>💫 Sushan Fernando</h1>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+ENGINEER;CYBERSECURITY+RESEARCHER;FULL+STACK+DEVELOPER;IOT+ENTHUSIAST" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+ENGINEER;CYBERSECURITY+RESEARCHER;FULL+STACK+DEVELOPER;IOT+ENTHUSIAST">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969da&center=true&vCenter=true&width=435&lines=AI+ENGINEER;CYBERSECURITY+RESEARCHER;FULL+STACK+DEVELOPER;IOT+ENTHUSIAST" alt="Typing SVG" />
+    </picture>
   </p>
 
   <p>
@@ -51,12 +54,21 @@ I am a passionate technologist focused on **AI model development**, **custom mod
       <td width="50%" valign="top">
         <img src="./dashboard_header.svg" width="400" />
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="400" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=klsdfernando&theme=default&hide_border=false&include_all_commits=true&count_private=true" width="400" />
+        </picture>
       </td>
       <td width="50%" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=klsdfernando&theme=tokyonight&hide_border=false" width="400" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=klsdfernando&theme=tokyonight&hide_border=false">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=klsdfernando&theme=default&hide_border=false" width="400" />
+        </picture>
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=klsdfernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klsdfernando&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" />
+        </picture>
       </td>
     </tr>
   </table>
@@ -75,7 +87,10 @@ I am a passionate technologist focused on **AI model development**, **custom mod
 
   <p align="center">
     <b>Activity Progression</b><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=klsdfernando&theme=tokyo-night&area=true&hide_border=false" alt="Activity Graph" width="800" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=klsdfernando&theme=tokyo-night&area=true&hide_border=false">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=klsdfernando&theme=github-light&area=true&hide_border=false" alt="Activity Graph" width="800" />
+    </picture>
   </p>
 </div>
 

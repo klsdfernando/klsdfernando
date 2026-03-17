@@ -5,6 +5,18 @@
     .value { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; fill: #C9D1D9; }
     .link { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; fill: #58A6FF; font-weight: 500; }
     .icon { fill: #8B949E; }
+    .stroke-adaptive { stroke: #8B949E; }
+    .link-stroke { stroke: #58A6FF; }
+
+    @media (prefers-color-scheme: light) {
+      .name { fill: #0969da; }
+      .label { fill: #57606a; }
+      .value { fill: #24292f; }
+      .link { fill: #0969da; }
+      .icon { fill: #57606a; }
+      .stroke-adaptive { stroke: #57606a; }
+      .link-stroke { stroke: #0969da; }
+    }
   </style>
 
   <!-- Name -->
@@ -12,8 +24,8 @@
   
   <!-- Joined Date -->
   <path d="M20 65h4v4h-4z M20 70h4v4h-4z" class="icon" />
-  <circle cx="28" cy="72" r="8" stroke="#8B949E" stroke-width="1.5" fill="none" />
-  <path d="M28 68 v4 h3" stroke="#8B949E" stroke-width="1.5" fill="none" />
+  <circle cx="28" cy="72" r="8" class="stroke-adaptive" stroke-width="1.5" fill="none" />
+  <path d="M28 68 v4 h3" class="stroke-adaptive" stroke-width="1.5" fill="none" />
   <text x="50" y="75" class="label">Joined GitHub</text>
   <text x="145" y="75" class="value">4 years ago</text>
 
@@ -24,7 +36,7 @@
   <text x="135" y="105" class="value">4 users</text>
 
   <!-- Calendar Link Style -->
-  <rect x="20" y="125" width="16" height="12" rx="2" stroke="#58A6FF" stroke-width="1.5" fill="none" />
-  <path d="M24 125 v-2 M32 125 v-2" stroke="#58A6FF" stroke-width="1.5" fill="none" />
+  <rect x="20" y="125" width="16" height="12" rx="2" class="link-stroke" stroke-width="1.5" fill="none" />
+  <path d="M24 125 v-2 M32 125 v-2" class="link-stroke" stroke-width="1.5" fill="none" />
   <text x="50" y="135" class="link">Contributions calendar</text>
 </svg>
