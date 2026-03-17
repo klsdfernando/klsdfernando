@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <a href="https://visitcount.itsvg.in/api?id=klsdfernando&icon=0&color=0"><img src="https://visitcount.itsvg.in/api?id=klsdfernando&icon=0&color=0" alt="Visit Count" /></a>
+    <img src="https://komarev.com/ghpvc/?username=klsdfernando&color=blue" alt="Visit Count" />
   </p>
 </div>
 
@@ -65,7 +65,10 @@ I am a passionate technologist focused on **AI model development**, **custom mod
   
   <p align="center">
     <b>3D Contribution Graph</b><br/>
-    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Profile" width="800" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+      <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Profile" width="800" />
+    </picture>
   </p>
 
   <br/>
