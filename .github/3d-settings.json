@@ -1,0 +1,29 @@
+{
+  "type": "normal",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#000000",
+  "strongColor": "#000000",
+  "weakColor": "#bbbbbb",
+  "radarColor": "#47a042",
+  "contribColors": [
+    "#ebedf0",
+    "#9be9a8",
+    "#40c463",
+    "#30a14e",
+    "#216e39"
+  ],
+  "darkMode": {
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#ffffff",
+    "strongColor": "#ffffff",
+    "weakColor": "#888888",
+    "radarColor": "#47a042",
+    "contribColors": [
+      "#161b22",
+      "#0e4429",
+      "#006d32",
+      "#26a641",
+      "#39d353"
+    ]
+  }
+}
