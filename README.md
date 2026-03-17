@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=klsdfernando&color=blue" alt="Visit Count" />
+    <img src="https://hits.dwyl.com/klsdfernando/klsdfernando.svg" alt="Visit Count" />
   </p>
 </div>
 
