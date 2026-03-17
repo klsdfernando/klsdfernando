@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="./banner.svg" alt="Sushan's Banner" width="800" />
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./BANNER_DARK.svg">
+      <img src="./BANNER_LIGHT.svg" alt="Banner" width="800" />
+    </picture>
+  </p>
 
   <h1>💫 Sushan Fernando</h1>
 
