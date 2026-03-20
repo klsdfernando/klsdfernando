@@ -10,15 +10,15 @@
 
   <p>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+ENGINEER;CYBERSECURITY+RESEARCHER;FULL+STACK+DEVELOPER;IOT+ENTHUSIAST">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969da&center=true&vCenter=true&width=435&lines=AI+ENGINEER;CYBERSECURITY+RESEARCHER;FULL+STACK+DEVELOPER;IOT+ENTHUSIAST" alt="Typing SVG" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=MACHINE+LEARNING;CYBERSECURITY+RESEARCHER;FULL+STACK+DEVELOPER;IOT+ENTHUSIAST">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969da&center=true&vCenter=true&width=435&lines=MACHINE+LEARNING;CYBERSECURITY+RESEARCHER;FULL+STACK+DEVELOPER;IOT+ENTHUSIAST" alt="Typing SVG" />
     </picture>
   </p>
 
   <!-- <p>
     <img src="https://hits.dwyl.com/klsdfernando/klsdfernando.svg" alt="Visit Count" />
-  </p>
-</div> -->
+  </p> -->
+</div>
 
 ---
 
