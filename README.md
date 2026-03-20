@@ -41,7 +41,7 @@ I am a passionate technologist focused on **AI model development**, **custom mod
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,java,kotlin,dart,php,css,html,powershell,bash" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,flask,flutter,jquery,npm,spring,vite,vue,yarn" /> |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean,docker,cloudflare,vercel,heroku" /> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,cloudflare,vercel,heroku" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,prisma,firebase" /> |
 | **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda" /> |
 | **Hardware / Tools** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,unreal" /> |
