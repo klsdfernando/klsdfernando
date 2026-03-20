@@ -15,10 +15,10 @@
     </picture>
   </p>
 
-  <p>
+  <!-- <p>
     <img src="https://hits.dwyl.com/klsdfernando/klsdfernando.svg" alt="Visit Count" />
   </p>
-</div>
+</div> -->
 
 ---
 
